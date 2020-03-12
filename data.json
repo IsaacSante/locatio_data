@@ -1,0 +1,1328 @@
+﻿{
+    "Data": [
+        {
+            "City/Area": "Anhui",
+            "Country/Region": "Mainland China",
+            "Lat": "31.8257",
+            "Long": "117.2264",
+            "Confirmed": "990",
+            "Recovered": "936",
+            "Deaths": "6"
+        },
+        {
+            "City/Area": "Beijing",
+            "Country/Region": "Mainland China",
+            "Lat": "40.1824",
+            "Long": "116.4142",
+            "Confirmed": "414",
+            "Recovered": "288",
+            "Deaths": "8"
+        },
+        {
+            "City/Area": "Chongqing",
+            "Country/Region": "Mainland China",
+            "Lat": "30.0572",
+            "Long": "107.874",
+            "Confirmed": "576",
+            "Recovered": "490",
+            "Deaths": "6"
+        },
+        {
+            "City/Area": "Fujian",
+            "Country/Region": "Mainland China",
+            "Lat": "26.0789",
+            "Long": "117.9874",
+            "Confirmed": "296",
+            "Recovered": "260",
+            "Deaths": "1"
+        },
+        {
+            "City/Area": "Gansu",
+            "Country/Region": "Mainland China",
+            "Lat": "36.0611",
+            "Long": "103.8343",
+            "Confirmed": "91",
+            "Recovered": "86",
+            "Deaths": "2"
+        },
+        {
+            "City/Area": "Guangdong",
+            "Country/Region": "Mainland China",
+            "Lat": "23.3417",
+            "Long": "113.4244",
+            "Confirmed": "1350",
+            "Recovered": "1101",
+            "Deaths": "7"
+        },
+        {
+            "City/Area": "Guangxi",
+            "Country/Region": "Mainland China",
+            "Lat": "23.8298",
+            "Long": "108.7881",
+            "Confirmed": "252",
+            "Recovered": "202",
+            "Deaths": "2"
+        },
+        {
+            "City/Area": "Guizhou",
+            "Country/Region": "Mainland China",
+            "Lat": "26.8154",
+            "Long": "106.8748",
+            "Confirmed": "146",
+            "Recovered": "114",
+            "Deaths": "2"
+        },
+        {
+            "City/Area": "Hainan",
+            "Country/Region": "Mainland China",
+            "Lat": "19.1959",
+            "Long": "109.7453",
+            "Confirmed": "168",
+            "Recovered": "155",
+            "Deaths": "5"
+        },
+        {
+            "City/Area": "Hebei",
+            "Country/Region": "Mainland China",
+            "Lat": "38.0428",
+            "Long": "114.5149",
+            "Confirmed": "318",
+            "Recovered": "300",
+            "Deaths": "6"
+        },
+        {
+            "City/Area": "Heilongjiang",
+            "Country/Region": "Mainland China",
+            "Lat": "47.862",
+            "Long": "127.7615",
+            "Confirmed": "480",
+            "Recovered": "366",
+            "Deaths": "13"
+        },
+        {
+            "City/Area": "Henan",
+            "Country/Region": "Mainland China",
+            "Lat": "33.88202",
+            "Long": "113.614",
+            "Confirmed": "1272",
+            "Recovered": "1231",
+            "Deaths": "22"
+        },
+        {
+            "City/Area": "Hubei",
+            "Country/Region": "Mainland China",
+            "Lat": "30.9756",
+            "Long": "112.2707",
+            "Confirmed": "67217",
+            "Recovered": "36208",
+            "Deaths": "2835"
+        },
+        {
+            "City/Area": "Hunan",
+            "Country/Region": "Mainland China",
+            "Lat": "27.6104",
+            "Long": "111.7088",
+            "Confirmed": "1018",
+            "Recovered": "906",
+            "Deaths": "4"
+        },
+        {
+            "City/Area": "Inner Mongolia",
+            "Country/Region": "Mainland China",
+            "Lat": "44.0935",
+            "Long": "113.9448",
+            "Confirmed": "75",
+            "Recovered": "59",
+            "Deaths": "1"
+        },
+        {
+            "City/Area": "Jiangsu",
+            "Country/Region": "Mainland China",
+            "Lat": "32.9711",
+            "Long": "119.455",
+            "Confirmed": "631",
+            "Recovered": "562",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Jiangxi",
+            "Country/Region": "Mainland China",
+            "Lat": "27.614",
+            "Long": "115.7221",
+            "Confirmed": "935",
+            "Recovered": "870",
+            "Deaths": "1"
+        },
+        {
+            "City/Area": "Jilin",
+            "Country/Region": "Mainland China",
+            "Lat": "43.6661",
+            "Long": "126.1923",
+            "Confirmed": "93",
+            "Recovered": "83",
+            "Deaths": "1"
+        },
+        {
+            "City/Area": "Liaoning",
+            "Country/Region": "Mainland China",
+            "Lat": "41.2956",
+            "Long": "122.6085",
+            "Confirmed": "125",
+            "Recovered": "106",
+            "Deaths": "1"
+        },
+        {
+            "City/Area": "Ningxia",
+            "Country/Region": "Mainland China",
+            "Lat": "37.2692",
+            "Long": "106.1655",
+            "Confirmed": "74",
+            "Recovered": "69",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Qinghai",
+            "Country/Region": "Mainland China",
+            "Lat": "35.7452",
+            "Long": "95.9956",
+            "Confirmed": "18",
+            "Recovered": "18",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Shaanxi",
+            "Country/Region": "Mainland China",
+            "Lat": "35.1917",
+            "Long": "108.8701",
+            "Confirmed": "245",
+            "Recovered": "216",
+            "Deaths": "1"
+        },
+        {
+            "City/Area": "Shandong",
+            "Country/Region": "Mainland China",
+            "Lat": "36.3427",
+            "Long": "118.1498",
+            "Confirmed": "758",
+            "Recovered": "511",
+            "Deaths": "6"
+        },
+        {
+            "City/Area": "Shanghai",
+            "Country/Region": "Mainland China",
+            "Lat": "31.202",
+            "Long": "121.4491",
+            "Confirmed": "338",
+            "Recovered": "294",
+            "Deaths": "3"
+        },
+        {
+            "City/Area": "Shanxi",
+            "Country/Region": "Mainland China",
+            "Lat": "37.5777",
+            "Long": "112.2922",
+            "Confirmed": "133",
+            "Recovered": "124",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Sichuan",
+            "Country/Region": "Mainland China",
+            "Lat": "30.6171",
+            "Long": "102.7103",
+            "Confirmed": "538",
+            "Recovered": "394",
+            "Deaths": "3"
+        },
+        {
+            "City/Area": "Tianjin",
+            "Country/Region": "Mainland China",
+            "Lat": "39.3054",
+            "Long": "117.323",
+            "Confirmed": "136",
+            "Recovered": "124",
+            "Deaths": "3"
+        },
+        {
+            "City/Area": "Tibet",
+            "Country/Region": "Mainland China",
+            "Lat": "31.6927",
+            "Long": "88.0924",
+            "Confirmed": "1",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Xinjiang",
+            "Country/Region": "Mainland China",
+            "Lat": "41.1129",
+            "Long": "85.2401",
+            "Confirmed": "76",
+            "Recovered": "68",
+            "Deaths": "3"
+        },
+        {
+            "City/Area": "Yunnan",
+            "Country/Region": "Mainland China",
+            "Lat": "24.974",
+            "Long": "101.487",
+            "Confirmed": "174",
+            "Recovered": "169",
+            "Deaths": "2"
+        },
+        {
+            "City/Area": "Zhejiang",
+            "Country/Region": "Mainland China",
+            "Lat": "29.1832",
+            "Long": "120.0934",
+            "Confirmed": "1213",
+            "Recovered": "1093",
+            "Deaths": "1"
+        },
+        {
+            "Country/Region": "Thailand",
+            "Lat": "15",
+            "Long": "101",
+            "Confirmed": "43",
+            "Recovered": "31",
+            "Deaths": "1"
+        },
+        {
+            "Country/Region": "Japan",
+            "Lat": "36",
+            "Long": "138",
+            "Confirmed": "293",
+            "Recovered": "43",
+            "Deaths": "6"
+        },
+        {
+            "Country/Region": "South Korea",
+            "Lat": "36",
+            "Long": "128",
+            "Confirmed": "5186",
+            "Recovered": "30",
+            "Deaths": "28"
+        },
+        {
+            "City/Area": "Taiwan",
+            "Country/Region": "Taiwan",
+            "Lat": "23.7",
+            "Long": "121",
+            "Confirmed": "42",
+            "Recovered": "12",
+            "Deaths": "1"
+        },
+        {
+            "City/Area": "King County",
+            "State": " WA",
+            "Country/Region": "US",
+            "Lat": "47.6062",
+            "Long": "-122.3321",
+            "Confirmed": "21",
+            "Recovered": "1",
+            "Deaths": "6"
+        },
+        {
+            "City/Area": "Cook County",
+            "State": " IL",
+            "Country/Region": "US",
+            "Lat": "41.7377",
+            "Long": "-87.6976",
+            "Confirmed": "4",
+            "Recovered": "2",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Tempe",
+            "State": " AZ",
+            "Country/Region": "US",
+            "Lat": "33.4255",
+            "Long": "-111.94",
+            "Confirmed": "1",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Macau",
+            "Country/Region": "Macau",
+            "Lat": "22.1667",
+            "Long": "113.55",
+            "Confirmed": "10",
+            "Recovered": "9",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Hong Kong",
+            "Country/Region": "Hong Kong",
+            "Lat": "22.3",
+            "Long": "114.2",
+            "Confirmed": "100",
+            "Recovered": "37",
+            "Deaths": "2"
+        },
+        {
+            "Country/Region": "Singapore",
+            "Lat": "1.2833",
+            "Long": "103.8333",
+            "Confirmed": "110",
+            "Recovered": "78",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Vietnam",
+            "Lat": "16",
+            "Long": "108",
+            "Confirmed": "16",
+            "Recovered": "16",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "France",
+            "Lat": "47",
+            "Long": "2",
+            "Confirmed": "204",
+            "Recovered": "12",
+            "Deaths": "4"
+        },
+        {
+            "Country/Region": "Nepal",
+            "Lat": "28.1667",
+            "Long": "84.25",
+            "Confirmed": "1",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Malaysia",
+            "Lat": "2.5",
+            "Long": "112.5",
+            "Confirmed": "36",
+            "Recovered": "22",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Toronto",
+            "State": " ON",
+            "Country/Region": "Canada",
+            "Lat": "43.6532",
+            "Long": "-79.3832",
+            "Confirmed": "19",
+            "Recovered": "2",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "British Columbia",
+            "Country/Region": "Canada",
+            "Lat": "49.2827",
+            "Long": "-123.1207",
+            "Confirmed": "9",
+            "Recovered": "3",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Orange",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "33.7879",
+            "Long": "-117.8531",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Los Angeles",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "34.0522",
+            "Long": "-118.2437",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "New South Wales",
+            "Country/Region": "Australia",
+            "Lat": "-33.8688",
+            "Long": "151.2093",
+            "Confirmed": "13",
+            "Recovered": "4",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Victoria",
+            "Country/Region": "Australia",
+            "Lat": "-37.8136",
+            "Long": "144.9631",
+            "Confirmed": "9",
+            "Recovered": "4",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Queensland",
+            "Country/Region": "Australia",
+            "Lat": "-28.0167",
+            "Long": "153.4",
+            "Confirmed": "11",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Cambodia",
+            "Lat": "11.55",
+            "Long": "104.9167",
+            "Confirmed": "1",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Sri Lanka",
+            "Lat": "7",
+            "Long": "81",
+            "Confirmed": "1",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Germany",
+            "Lat": "51",
+            "Long": "9",
+            "Confirmed": "196",
+            "Recovered": "16",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Finland",
+            "Lat": "64",
+            "Long": "26",
+            "Confirmed": "6",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "United Arab Emirates",
+            "Lat": "24",
+            "Long": "54",
+            "Confirmed": "27",
+            "Recovered": "5",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Philippines",
+            "Lat": "13",
+            "Long": "122",
+            "Confirmed": "3",
+            "Recovered": "1",
+            "Deaths": "1"
+        },
+        {
+            "Country/Region": "India",
+            "Lat": "21",
+            "Long": "78",
+            "Confirmed": "5",
+            "Recovered": "3",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "London",
+            "State": " ON",
+            "Country/Region": "Canada",
+            "Lat": "42.9849",
+            "Long": "-81.2453",
+            "Confirmed": "1",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Italy",
+            "Lat": "43",
+            "Long": "12",
+            "Confirmed": "2502",
+            "Recovered": "160",
+            "Deaths": "79"
+        },
+        {
+            "Country/Region": "UK",
+            "Lat": "55",
+            "Long": "-3",
+            "Confirmed": "51",
+            "Recovered": "8",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Russia",
+            "Lat": "60",
+            "Long": "90",
+            "Confirmed": "3",
+            "Recovered": "2",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Sweden",
+            "Lat": "63",
+            "Long": "16",
+            "Confirmed": "21",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Santa Clara",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "37.3541",
+            "Long": "-121.9552",
+            "Confirmed": "11",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Spain",
+            "Lat": "40",
+            "Long": "-4",
+            "Confirmed": "165",
+            "Recovered": "2",
+            "Deaths": "1"
+        },
+        {
+            "City/Area": "South Australia",
+            "Country/Region": "Australia",
+            "Lat": "-34.9285",
+            "Long": "138.6007",
+            "Confirmed": "3",
+            "Recovered": "2",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Boston",
+            "State": " MA",
+            "Country/Region": "US",
+            "Lat": "42.3601",
+            "Long": "-71.0589",
+            "Confirmed": "1",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "San Benito",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "36.5761",
+            "Long": "-120.9876",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Belgium",
+            "Lat": "50.8333",
+            "Long": "4",
+            "Confirmed": "13",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Madison",
+            "State": " WI",
+            "Country/Region": "US",
+            "Lat": "43.0731",
+            "Long": "-89.4012",
+            "Confirmed": "1",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Diamond Princess cruise ship",
+            "Country/Region": "Others",
+            "Lat": "35.4437",
+            "Long": "139.638",
+            "Confirmed": "706",
+            "Recovered": "10",
+            "Deaths": "6"
+        },
+        {
+            "City/Area": "San Diego ",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "32.7157",
+            "Long": "-117.1611",
+            "Confirmed": "2",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "San Antonio",
+            "State": " TX",
+            "Country/Region": "US",
+            "Lat": "29.4241",
+            "Long": "-98.4936",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Egypt",
+            "Lat": "26",
+            "Long": "30",
+            "Confirmed": "2",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Iran",
+            "Lat": "32",
+            "Long": "53",
+            "Confirmed": "2336",
+            "Recovered": "291",
+            "Deaths": "77"
+        },
+        {
+            "City/Area": "Omaha",
+            "State": " NE (From Diamond Princess)",
+            "Country/Region": "US",
+            "Lat": "41.2545",
+            "Long": "-95.9758",
+            "Confirmed": "0",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Travis",
+            "State": " CA (From Diamond Princess)",
+            "Country/Region": "US",
+            "Lat": "38.2721",
+            "Long": "-121.9399",
+            "Confirmed": "0",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "From Diamond Princess",
+            "Country/Region": "Australia",
+            "Lat": "35.4437",
+            "Long": "139.638",
+            "Confirmed": "0",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Lackland",
+            "State": " TX (From Diamond Princess)",
+            "Country/Region": "US",
+            "Lat": "29.3829",
+            "Long": "-98.6134",
+            "Confirmed": "0",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Lebanon",
+            "Lat": "33.8547",
+            "Long": "35.8623",
+            "Confirmed": "13",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Humboldt ",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "40.745",
+            "Long": "-123.8695",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Sacramento ",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "38.4747",
+            "Long": "-121.3542",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Iraq",
+            "Lat": "33",
+            "Long": "44",
+            "Confirmed": "32",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Unassigned Location (From Diamond Princess)",
+            "Country/Region": "US",
+            "Lat": "35.4437",
+            "Long": "139.638",
+            "Confirmed": "45",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Oman",
+            "Lat": "21",
+            "Long": "57",
+            "Confirmed": "12",
+            "Recovered": "2",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Afghanistan",
+            "Lat": "33",
+            "Long": "65",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Bahrain",
+            "Lat": "26.0275",
+            "Long": "50.55",
+            "Confirmed": "49",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Kuwait",
+            "Lat": "29.5",
+            "Long": "47.75",
+            "Confirmed": "56",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Algeria",
+            "Lat": "28.0339",
+            "Long": "1.6596",
+            "Confirmed": "5",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Croatia",
+            "Lat": "45.1",
+            "Long": "15.2",
+            "Confirmed": "9",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Switzerland",
+            "Lat": "46.8182",
+            "Long": "8.2275",
+            "Confirmed": "56",
+            "Recovered": "2",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Austria",
+            "Lat": "47.5162",
+            "Long": "14.5501",
+            "Confirmed": "21",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Israel",
+            "Lat": "31",
+            "Long": "35",
+            "Confirmed": "12",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Pakistan",
+            "Lat": "30.3753",
+            "Long": "69.3451",
+            "Confirmed": "5",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Brazil",
+            "Lat": "-14.235",
+            "Long": "-51.9253",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Georgia",
+            "Lat": "42.3154",
+            "Long": "43.3569",
+            "Confirmed": "3",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Greece",
+            "Lat": "39.0742",
+            "Long": "21.8243",
+            "Confirmed": "7",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "North Macedonia",
+            "Lat": "41.6086",
+            "Long": "21.7453",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Norway",
+            "Lat": "60.472",
+            "Long": "8.4689",
+            "Confirmed": "32",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Romania",
+            "Lat": "45.9432",
+            "Long": "24.9668",
+            "Confirmed": "3",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Denmark",
+            "Lat": "56.2639",
+            "Long": "9.5018",
+            "Confirmed": "6",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Estonia",
+            "Lat": "58.5953",
+            "Long": "25.0136",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Netherlands",
+            "Lat": "52.1326",
+            "Long": "5.2913",
+            "Confirmed": "24",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "San Marino",
+            "Lat": "43.9424",
+            "Long": "12.4578",
+            "Confirmed": "10",
+            "Recovered": "0",
+            "Deaths": "1"
+        },
+        {
+            "Country/Region": "Belarus",
+            "Lat": "53.7098",
+            "Long": "27.9534",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Montreal",
+            "State": " QC",
+            "Country/Region": "Canada",
+            "Lat": "45.5017",
+            "Long": "-73.5673",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Iceland",
+            "Lat": "64.9631",
+            "Long": "-19.0208",
+            "Confirmed": "11",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Lithuania",
+            "Lat": "55.1694",
+            "Long": "23.8813",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Mexico",
+            "Lat": "23.6345",
+            "Long": "-102.5528",
+            "Confirmed": "5",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "New Zealand",
+            "Lat": "-40.9006",
+            "Long": "174.886",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Nigeria",
+            "Lat": "9.082",
+            "Long": "8.6753",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Western Australia",
+            "Country/Region": "Australia",
+            "Lat": "-31.9505",
+            "Long": "115.8605",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "1"
+        },
+        {
+            "Country/Region": "Ireland",
+            "Lat": "53.1424",
+            "Long": "-7.6921",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Luxembourg",
+            "Lat": "49.8153",
+            "Long": "6.1296",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Monaco",
+            "Lat": "43.7333",
+            "Long": "7.4167",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Qatar",
+            "Lat": "25.3548",
+            "Long": "51.1839",
+            "Confirmed": "7",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Snohomish County",
+            "State": " WA",
+            "Country/Region": "US",
+            "Lat": "48.033",
+            "Long": "-121.8339",
+            "Confirmed": "6",
+            "Recovered": "0",
+            "Deaths": "1"
+        },
+        {
+            "Country/Region": "Ecuador",
+            "Lat": "-1.8312",
+            "Long": "-78.1834",
+            "Confirmed": "7",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Azerbaijan",
+            "Lat": "40.1431",
+            "Long": "47.5769",
+            "Confirmed": "3",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Czech Republic",
+            "Lat": "49.8175",
+            "Long": "15.473",
+            "Confirmed": "5",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Armenia",
+            "Lat": "40.0691",
+            "Long": "45.0382",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Dominican Republic",
+            "Lat": "18.7357",
+            "Long": "-70.1627",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Providence",
+            "State": " RI",
+            "Country/Region": "US",
+            "Lat": "41.824",
+            "Long": "-71.4128",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Indonesia",
+            "Lat": "-0.7893",
+            "Long": "113.9213",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Portugal",
+            "Lat": "39.3999",
+            "Long": "-8.2245",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Andorra",
+            "Lat": "42.5063",
+            "Long": "1.5218",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Tasmania",
+            "Country/Region": "Australia",
+            "Lat": "-41.4545",
+            "Long": "145.9707",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Latvia",
+            "Lat": "56.8796",
+            "Long": "24.6032",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Morocco",
+            "Lat": "31.7917",
+            "Long": "-7.0926",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Saudi Arabia",
+            "Lat": "24",
+            "Long": "45",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Senegal",
+            "Lat": "14.4974",
+            "Long": "-14.4524",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Grafton ",
+            "State": " NH",
+            "Country/Region": "US",
+            "Lat": "43.9088",
+            "Long": "-71.826",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Hillsborough",
+            "State": " FL",
+            "Country/Region": "US",
+            "Lat": "27.9904",
+            "Long": "-82.3018",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "New York ",
+            "State": " NY",
+            "Country/Region": "US",
+            "Lat": "40.7128",
+            "Long": "-74.006",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Placer ",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "39.0916",
+            "Long": "-120.8039",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "San Mateo",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "37.563",
+            "Long": "-122.3255",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Sarasota",
+            "State": " FL",
+            "Country/Region": "US",
+            "Lat": "27.3364",
+            "Long": "-82.5307",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Sonoma ",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "38.578",
+            "Long": "-122.9888",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Umatilla",
+            "State": " OR",
+            "Country/Region": "US",
+            "Lat": "45.775",
+            "Long": "-118.7606",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Fulton ",
+            "State": " GA",
+            "Country/Region": "US",
+            "Lat": "33.8034",
+            "Long": "-84.3963",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Washington ",
+            "State": " OR",
+            "Country/Region": "US",
+            "Lat": "45.547",
+            "Long": "-123.1386",
+            "Confirmed": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Argentina",
+            "Lat": "-38.4161",
+            "Long": "-63.6167",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Chile",
+            "Lat": "-35.6751",
+            "Long": "-71.543",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Jordan",
+            "Lat": "31.24",
+            "Long": "36.51",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Norfolk ",
+            "State": " MA",
+            "Country/Region": "US",
+            "Lat": "42.1767",
+            "Long": "-71.1449",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Berkeley",
+            "State": " CA",
+            "Country/Region": "US",
+            "Lat": "37.8715",
+            "Long": "-122.273",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Maricopa ",
+            "State": " AZ",
+            "Country/Region": "US",
+            "Lat": "33.2918",
+            "Long": "-112.4291",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Wake ",
+            "State": " NC",
+            "Country/Region": "US",
+            "Lat": "35.8032",
+            "Long": "-78.5661",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "City/Area": "Westchester ",
+            "State": " NY",
+            "Country/Region": "US",
+            "Lat": "41.122",
+            "Long": "-73.7949",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "Country/Region": "Ukraine",
+            "Lat": "48.3794",
+            "Long": "31.1656",
+            "Confirmed": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        }
+    ]
+}

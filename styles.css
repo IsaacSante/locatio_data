@@ -1,0 +1,165 @@
+body{
+padding: 0%;
+margin: 0;
+font-family: 'Barlow Condensed', sans-serif;
+font-size: 1em;
+}
+
+h1{
+    margin: 0%;
+}
+
+h2{
+    margin: 0%;
+
+}
+
+.sectwo{
+    color: #DBDCE1;
+    height: 100vh;
+    background: #353748;
+    box-sizing: border-box;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.secfour{
+    background: #58b792;
+    height: 100vh;
+    box-sizing: border-box;
+    text-align: center;
+    vertical-align: middle;
+    color:#DBDCE1;
+}
+
+.secfive{
+    height: 100vh;
+   background:  #EDEDED;
+    box-sizing: border-box;
+    text-align: center;
+    vertical-align: middle;
+    color: #333;
+}
+.fwh-slide--bg-blue{
+    height: 100vh;
+    background: #87cef5;;
+    box-sizing: border-box;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.secone{
+    height: 100vh;
+    background: #FFFFF0;
+    box-sizing: border-box;
+    text-align: center;
+    vertical-align: middle;
+    color: #333;
+}
+
+.secsix{
+    height: 300vh;
+    background: #87cef5;;
+    box-sizing: border-box;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.classsix{
+    width: 80%;
+    max-width: 700px;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    margin-top: 10vh;
+    font-size: 170%;  
+
+}
+
+.fwh-slide p {
+margin: 0%;
+}
+
+.classtwo{
+    width: 80%;
+    max-width: 700px;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    margin-top: 15vh;
+    font-size: 170%;
+}
+
+.contained{
+    width: 80%;
+    max-width: 700px;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    margin-top: 10vh;
+    font-size: 170%;
+    line-height: 200%;
+
+}
+
+.classone{
+    width: 80%;
+    max-width: 700px;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    margin-top: 10vh;
+    font-size: 170%;  
+}
+
+.contained div{
+    margin-bottom: 2vh;
+}
+
+.classtwo a{
+    color: #60a5da;
+}
+
+#covidone a {
+    padding-top: 40vh;
+  }
+  #covidone a span {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    border-left: 1.5px solid #000000;
+    border-bottom: 1.5px solid #000000;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    box-sizing: border-box;
+  }
+  
+
+  .classfour{
+    width: 80%;
+    max-width: 700px;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    margin-top: 10vh;
+    font-size: 170%;  
+  }
+
+  .classfive{
+    width: 80%;
+    max-width: 700px;
+    margin: 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    margin-top: 10vh;
+    font-size: 170%;  
+  }
